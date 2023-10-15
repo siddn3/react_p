@@ -8,17 +8,7 @@ Reactfolio is a modern and customizable personal portfolio web template built us
 
 Live demo here: <a href="https://reactfolio.tharindu.dev/" target="_blank">reactfolio.tharindu.dev</a>
 <br/>
-Readme here: <a href="https://tharindu.dev/portfolio/reactfolio/" target="_blank">tharindu.dev/portfolio/reactfolio/</a>
 
--   [Features](#-features)
--   [Getting started](#-getting-started)
--   [Installation and Setup Instructions](#-installation-and-setup-instructions)
--   [Folder structure](#-folder-structure)
--   [Configurations](#-configurations)
--   [Google Analytics](#-google-analytics)
--   [Building the React App](#-building-the-react-app)
--   [FAQ](#-faq)
--   [Contribution](#-contribution)
 
 ## 📙 Features
 
